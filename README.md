@@ -1,0 +1,1 @@
+# Parametric VaR of portfolio consisting DLF (40%), NTPC (20%) And HDFC Bank (40%). Take historical data for last 500 days before 1st Oct, 2019 and a 99% VaR confidence level.
